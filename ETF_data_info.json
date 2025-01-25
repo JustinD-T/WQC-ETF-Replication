@@ -1,0 +1,20 @@
+{
+    "tickers" : [
+        "XLC",
+        "XLY",
+        "XLP",
+        "XLE",
+        "XLF",
+        "XLV",
+        "XLI",
+        "XLB",
+        "XLRE",
+        "XLK",
+        "XLU"
+    ],
+    "dataParameters" : {
+        "sample_time_step" : "1mo",
+        "total_sample_period" : "5y",
+        "sample_period_end" : "2024-01-01"
+    }
+}
